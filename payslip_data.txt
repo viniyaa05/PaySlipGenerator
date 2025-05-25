@@ -1,0 +1,18 @@
+Payslip ID: 787
+Employee Type: REGULAR
+ID: 68
+Name: iuy
+Designation: manager
+Final Salary: 67318
+Deductions: 450
+Bonuses: 768
+---------------------------
+Payslip ID: 678
+Employee Type: CONTRACT
+ID: 89
+Name: iou
+Designation: developer
+Final Salary: 60780
+Deductions: 0
+Bonuses: 780
+---------------------------
